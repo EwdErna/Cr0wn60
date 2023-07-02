@@ -1,5 +1,6 @@
 /Cr0wn60-backups/
 /etc/
-/Case/
+!/Case/
+/Case/*
 !/Case/*.FCStd
 /*.*-bak
