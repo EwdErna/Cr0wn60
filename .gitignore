@@ -3,4 +3,7 @@
 !/Case/
 /Case/*
 !/Case/*.FCStd
+!/Case/ReDesign/
+/Case/ReDesign/*
+!/Case/ReDesign/*.FCStd
 /*.*-bak
