@@ -7,3 +7,6 @@
 /Case/ReDesign/*
 !/Case/ReDesign/*.FCStd
 /*.*-bak
+*.obj
+*.mtl
+*.wrl
