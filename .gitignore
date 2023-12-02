@@ -1,3 +1,6 @@
+*.obj
+*.mtl
+*.wrl
 /Cr0wn60-backups/
 /etc/
 !/Case/
@@ -6,7 +9,5 @@
 !/Case/ReDesign/
 /Case/ReDesign/*
 !/Case/ReDesign/*.FCStd
+!/Case/ReDesign/*.blend
 /*.*-bak
-*.obj
-*.mtl
-*.wrl
