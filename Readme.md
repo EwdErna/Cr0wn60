@@ -6,7 +6,7 @@ Cr0wn60 配下の特徴を持つキーボードです。
 - RP2040 採用の PCB
 - Friction O-ring Mount の 3 ピースケース
 
-ファームウェアは以下のリポジトリから取得可能です。
+ファームウェアは以下のリポジトリから取得可能です。  
 [Ewderna/qmk_firmware ewderna_22 branch](https://github.com/EwdErna/qmk_firmware/tree/dev/ewderna_22)
 
 ## Build Guide
