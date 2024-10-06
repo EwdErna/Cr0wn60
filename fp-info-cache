@@ -1,4 +1,11 @@
-22854439238942511
+22864963952332087
+ADeL_kbd
+046277006001883
+
+
+0
+8
+7
 ADeL_kbd
 4D03WGJ0102T5E
 
@@ -48,6 +55,13 @@ HRO-TYPE-C-31-M-13B
 0
 12
 12
+ADeL_kbd
+KBD_CASE
+
+
+0
+0
+0
 ADeL_kbd
 MountingHole_3.2mm_M3-Spacer
 Mounting Hole 3.2mm, no annular, M3
@@ -126,12 +140,40 @@ TVAF06-A020B-R
 2
 2
 ADeL_kbd
+TYPE-C-31-M-13B
+
+
+0
+20
+17
+ADeL_kbd
 ToolingHole_JLCPCB
 
 
 0
 0
 0
+ADeL_kbd
+UGCT7525AN4
+
+
+0
+4
+2
+ADeL_kbd
+USB_Micro-B_Jing-Extension-920-F62A2021S10109
+
+
+0
+9
+6
+ADeL_kbd
+USB_Micro-B_Molex_47346-0001_DoughterBoard
+Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://www.molex.com/pdm_docs/sd/473460001_sd.pdf)
+Micro B USB SMD
+0
+9
+6
 ADeL_kbd
 XIAO_RP2040
 

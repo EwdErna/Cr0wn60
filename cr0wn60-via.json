@@ -2,7 +2,7 @@
     "name": "cr0wn60",
     "vendorId": "0xADE1",
     "productId": "0x0001",
-    "menus": [],
+    "lighting": "qmk_rgblight",
     "keycodes": [],
     "matrix": { "rows": 9, "cols": 9 },
     "layouts": {
