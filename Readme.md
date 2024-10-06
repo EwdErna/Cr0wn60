@@ -20,12 +20,12 @@ Cr0wn60 配下の特徴を持つキーボードです。
   - トップケース
   - ミドルプレート
   - ボトムケース
-- O-ring
+- O-ring ID185x3.55mm
 - Unified Daughter Board S1 / molex Pico EasyMate Cable
 
 > [!Note]  
 > ProtoType 版ではスイッチプレート、ケースはデータのみの配布となります。  
-> また、O-ring についてはサイズ情報のみの提供となり、付属しません。
+> また、O-ring については付属しません。ご自身で購入をお願いします。
 
 ### 別途必要なもの
 
