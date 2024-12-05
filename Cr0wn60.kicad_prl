@@ -67,6 +67,12 @@
     "visible_layers": "803feff_ffffffff",
     "zone_display_mode": 0
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
     "filename": "Cr0wn60.kicad_prl",
     "version": 3
